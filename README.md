@@ -97,7 +97,6 @@ El informe contempla las siguientes categorías de pruebas:
 - Rendimiento.
 - Recuperación ante fallos.
 
-La inclusión de estas pruebas en la documentación no implica que todas hayan sido ejecutadas o aprobadas.
 
 ## Equipo de trabajo
 

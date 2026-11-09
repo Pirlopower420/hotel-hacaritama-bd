@@ -52,7 +52,8 @@ La estructura utiliza claves primarias, claves foráneas y restricciones de inte
 ```text
 hotel-hacaritama-bd/
 ├── README.md
-├── Proyecto_BD_2026_1_C4.docx
+├── documento
+    └── Proyecto_BD
 └── scripts/
     ├── DDL.sql
     └── DML.sql
